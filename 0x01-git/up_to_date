@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 git pull
+=======
+touch up_to_date
+git add .
+git commit -m 'How to be up to date in git'
+git push
+
+
+echo 
+>>>>>>> cb525d9ee62c2bcf3074679ebc228575608eb509
